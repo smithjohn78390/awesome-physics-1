@@ -100,6 +100,7 @@ _Support ongoing maintenance and curation via [GitHub Sponsors](https://github.c
 - [FEniCS](https://fenicsproject.org/) – Open-source computing platform for PDE-based simulations.
 - [MOOSE Framework](https://mooseframework.inl.gov/) – Multiphysics simulation framework.
 - [Elmer FEM](https://www.csc.fi/web/elmer) – Finite element software for multiphysical problems.
+- [Scivra](https://scivra.com/) – Interactive 3D science lab simulations for high school physics (and other sciences). Free to try in the browser; no account or download.
 
 ## Data, Repositories & Open Science
 
